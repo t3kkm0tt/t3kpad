@@ -15,11 +15,9 @@ And an image of the case and how it fits together...lol
 ![image](https://github.com/user-attachments/assets/4d8f85d4-5eee-4210-ab2c-0666cdb9cc4d)
 
 BOM:
-	12 SK6812mini leds
- 
+	
+ 	12 SK6812mini leds
  	(1 soldering iron)
-  
 	6 mx 1.00u switches (solderable)
- 
  	1 XIAO-RP-2040-DIP
 	
