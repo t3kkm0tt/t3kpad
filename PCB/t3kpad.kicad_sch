@@ -2758,7 +2758,7 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812MINI")
-		(at 26.67 156.21 90)
+		(at 26.67 156.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2767,7 +2767,7 @@
 		(fields_autoplaced yes)
 		(uuid "0aa20a00-796e-4b1b-8e12-7d9eebedae0f")
 		(property "Reference" "D1"
-			(at 39.37 150.7646 90)
+			(at 39.37 149.7898 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2775,7 +2775,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI"
-			(at 39.37 153.3046 90)
+			(at 39.37 152.3298 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2783,7 +2783,7 @@
 			)
 		)
 		(property "Footprint" "kicad-SK6812MINI:SK6812MINI"
-			(at 34.29 154.94 0)
+			(at 27.94 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2793,7 +2793,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
-			(at 36.195 153.67 0)
+			(at 29.21 165.735 0)
 			(effects
 				(font
 					(size 1.27 1.27)
