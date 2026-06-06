@@ -1,5 +1,5 @@
 # t3kpad
-by t3kkm0tt aka. Ben Markendorf
+by t3kkm0tt
 I was doing this for hackpad.hackclub.com and here is my submission!
 
 Here an image of the fully assembled pcb... not very detailed.
